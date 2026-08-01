@@ -117,11 +117,12 @@ Minimum Samples per Leaf
 
 
 The best-performing model was automatically selected after cross-validation.
-
+# Model Accuracy 
+**Accuracy: 0.5880388349514563
+[[5516 1260]
+ [4044 2055]**
+ 
 # REST API
-
-A FastAPI application was developed to expose the trained machine learning model as a REST service.
-
 # Available functionality:
 
 
