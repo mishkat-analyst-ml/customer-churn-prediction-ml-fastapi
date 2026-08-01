@@ -118,9 +118,12 @@ Minimum Samples per Leaf
 
 The best-performing model was automatically selected after cross-validation.
 # Model Accuracy 
-**Accuracy: 0.5880388349514563
+
+**Accuracy: 0.5880388349514563**
+
 [[5516 1260]
- [4044 2055]**
+
+ [4044 2055]
  
 # REST API
 # Available functionality:
